@@ -183,4 +183,7 @@ line-height: normal;
   .contact_submit_btn {
     padding: 10px 20px;
   }
+  .contact-bottom-div{
+    margin-bottom: 1.5rem;
+  }
 }
